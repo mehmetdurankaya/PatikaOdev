@@ -22,4 +22,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 istediğinizi tartışmak için bir konu açınız.
 
 # License
-MIT
+ <a href="https://choosealicense.com/licenses/mit/">MIT</a href>
