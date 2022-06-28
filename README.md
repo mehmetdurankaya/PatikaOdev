@@ -10,7 +10,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Installation
 öncelikle projeyi klonlayın (Buraya sizin reponuzdan alınan link gelecek)
 
-https://github.com/mehmetdurankaya/solid-fiesta.git
+https://github.com/mehmetdurankaya/PatikaOdev
 
 # Usage
 
