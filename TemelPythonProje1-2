@@ -1,0 +1,23 @@
+Proje 1
+-------------------------------------------
+m = [[1,'Pazartesi',['Salı'],2],[[[3]],'Çarşamba','Perşembe','Cuma'],4,5]
+flatten_l = []
+
+def flatten(n):
+    for i in n :
+        if isinstance(i,list):
+            flatten(i)
+        else:
+            flatten_l.append(i)
+
+flatten(m)
+print(flatten_l)
+
+Proje 2
+-----------------------------------------
+input = [[1, 2], [3, 4], [5, 6, 7]]
+input.reverse()
+for i in range(len(input)):
+    (input[i])=(input[i])[::-1]
+
+print(input)
